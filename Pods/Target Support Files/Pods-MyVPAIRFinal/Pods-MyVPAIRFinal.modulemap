@@ -1,0 +1,6 @@
+framework module Pods_MyVPAIRFinal {
+  umbrella header "Pods-MyVPAIRFinal-umbrella.h"
+
+  export *
+  module * { export * }
+}
